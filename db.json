@@ -1,0 +1,47 @@
+{
+  "areas": [
+    {
+      "id": 1,
+      "nombre_area": "Administrativo",
+      "nombre_encargado": "Cleómedes Encinas",
+      "numero_funcionarios": 4
+    },
+    {
+      "id": 2,
+      "nombre_area": "Docentes",
+      "nombre_encargado": "Eucladio Buendia",
+      "numero_funcionarios": 1
+    },
+    {
+      "nombre_area": "Administrativo",
+      "id": 3
+    },
+    {
+      "nombre_area": "Magiterio",
+      "id": 4
+    }
+  ],
+  "activos": [
+    {
+      "tipo_activo": "Computadora",
+      "marca": "HP",
+      "modelo": "Pavilon",
+      "estado": "seminueva",
+      "areaId": 2
+    },
+    {
+      "tipo_activo": "Escoba",
+      "marca": "Nimbus2000",
+      "modelo": "2000",
+      "estado": "usada",
+      "areaId": 3
+    },
+    {
+      "tipo_activo": "Impresora",
+      "marca": "Canon",
+      "modelo": "MP-280",
+      "estado": "lamentable",
+      "areaId": 1
+    }
+  ]
+}

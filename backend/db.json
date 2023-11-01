@@ -1,0 +1,31 @@
+{
+    "areas": [
+        {
+            "id": 1,
+            "nombre_area": "Administrativa",
+            "nombre_encargado": "Cleomedes Encinas",
+            "numero_funcionarios": 4
+        },         {
+            "id": 2,
+            "nombre_area": "Docencia",
+            "nombre_encargado": "Carla terceros",
+            "numero_funcionarios": 1
+        }
+        ],
+    "activos": [
+        {
+            "tipo_activo": "Computadora",
+            "marca": "HP",
+            "modelo": "Pavilon",
+            "estado": "seminueva",
+            "areaId": 1
+        },
+        {
+            "tipo_activo": "Pizarra",
+            "marca": "FL",
+            "modelo": "2003",
+            "estado": "seminueva",
+            "areaId": 1
+        }
+        ]
+    }
